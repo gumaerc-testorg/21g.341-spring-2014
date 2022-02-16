@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 5bdc1269-0961-3ac0-4dac-82399c310d6d
 title: Papier de Recherche
 uid: 121e0d04-de17-24bf-3f2e-bb0ee337a341
