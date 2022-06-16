@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Instructions for an optional research paper assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

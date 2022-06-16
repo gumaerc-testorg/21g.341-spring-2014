@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Instructions for an assignment to write review of a short film.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Instructions for a film project presentation assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
