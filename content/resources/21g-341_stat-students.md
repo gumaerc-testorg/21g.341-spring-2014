@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: 21G-341_stat-students
 uid: 9cd26269-346d-9fb7-5adc-37f11cb10c94
 ---
 Image showing the number of students enrolled in the course.
-
