@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: Instructions for a film project presentation assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 5bdc1269-0961-3ac0-4dac-82399c310d6d
 title: "Pr\xE9sentation"
 uid: 78575acb-1ab9-1daf-45e8-f889230f6ee1

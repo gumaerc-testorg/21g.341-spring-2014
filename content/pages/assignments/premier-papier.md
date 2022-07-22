@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: Instructions for an assignment to write review of a short film.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 5bdc1269-0961-3ac0-4dac-82399c310d6d
 title: Premier papier
 uid: a9c7b447-6d5a-1ed8-a274-44f1fe4f8958
