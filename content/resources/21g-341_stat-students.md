@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image showing the number of students enrolled in the course.
-file: /courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/9cd26269346d9fb75adc37f11cb10c94_21G-341_stat-students.png
+file: /ol-ocw-studio-app/courses/21g-341-contemporary-french-film-and-social-issues-spring-2014/9cd26269346d9fb75adc37f11cb10c94_21G-341_stat-students.png
 file_size: 2715
 file_type: image/png
 image_metadata:
