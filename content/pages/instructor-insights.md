@@ -34,7 +34,7 @@ One intermediate subject in French or permission of the instructor.
 ### Requirements Satisfied
 
 - HASS ![](/images/educator/icon-question-hass.png)
-- This course can be applied toward a [Bachelor of Science in Foreign Languages and Literatures](http://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/), but is not required.
+- This course can be applied toward a {{% resource_link "46974d9d-f649-4407-a5f6-3d888622f923" "Bachelor of Science in Foreign Languages and Literatures" %}}, but is not required.
 
 ### Offered
 
